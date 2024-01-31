@@ -1,6 +1,4 @@
 <#
-Version: 1.0
-Author: 
 - Jeremy https://twitter.com/Jeremy_reboot
 Script: Remediate-NETBIOS
 Description: Script Remediates NETBIOS to off.
