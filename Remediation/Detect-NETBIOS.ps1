@@ -19,10 +19,14 @@ foreach ($interface in $interfaces) {
  
 if ($interfaces.Count *2 -eq $i) {
     #netbios disabled
-    return "exit 0"
+    Write-host "NETBIOS Disabled"
+
+    exit 0
 }
  
 else {
     # netbios enabled
-    return "exit 1"
+    Write-warning "NETBIOS Enabled"
+
+    exit 1
 }
