@@ -1,6 +1,4 @@
 <#
-Version: 1.0
-Author: 
 - Jeremy https://twitter.com/Jeremy_reboot
 Script: Detect-NETBIOS
 Description: Script detects whether or not NETBIOS is enabled on assigned device(s)
